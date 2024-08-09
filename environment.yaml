@@ -1,0 +1,21 @@
+name: gha_trends
+channels:
+  - conda-forge
+dependencies:
+  - xarray
+  - numpy
+  - pandas
+  - geopandas
+  - shapely
+  - xagg
+  - scipy
+  - pandas
+  - xesmf >= 0.7.1
+  - matplotlib
+  - cartopy
+  - tqdm
+  - seaborn
+  - cmocean
+  - xhistogram
+  - xskillscore
+  
