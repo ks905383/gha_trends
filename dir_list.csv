@@ -1,0 +1,5 @@
+dir_name,dir_path
+figs,/dx02/kschwarz/project_data/future_stability/figures/
+aux,/dx02/kschwarz/project_data/future_stability/aux_data/
+raw,/dx02/kschwarz/project_data/future_stability/climate_raw/
+proc,/dx02/kschwarz/project_data/future_stability/climate_proc/
