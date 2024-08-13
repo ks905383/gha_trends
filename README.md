@@ -1,7 +1,11 @@
+[![DOI](https://zenodo.org/badge/840417831.svg)](https://zenodo.org/doi/10.5281/zenodo.13315405)
+
 # Revisiting the `East African Paradox' Replication Code
 This repository contains replication code for Schwarzwald, Kevin and Richard Seager (2024), "'Revisiting the “East African Paradox': CMIP6 models also struggle to reproduce strong observed MAM long rain drying trends." (under revision at Journal of Climate). This includes the code necessary to calculate the trends used in the analysis, in addition to the code necessary to reproduce all main text and supplementary figures. 
 
-The code requires the following directories (the upper-level directories don't necessarily have to be in the same top-level directory or be called "raw" or "proc"; either way, their location and name must be set explicitly in `dir_list.csv`): 
+Replication data can be found [here](https://zenodo.org/doi/10.5281/zenodo.13286726). 
+
+The code requires the following directories, contained in the replication data repository above (the upper-level directories don't necessarily have to be in the same top-level directory or be called "raw" or "proc"; either way, their location and name must be set explicitly in `dir_list.csv`): 
 
 ```
 project
